@@ -2,7 +2,7 @@
 title: "MyFirstQuartoWebsite"
 ---
 
-This is a Quarto website.
+This is my first Quarto website published with Quarto pub
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 

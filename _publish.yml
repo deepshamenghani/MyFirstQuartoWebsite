@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: ce88d51a-690d-4199-a9b6-580ba86a7332
+      url: 'https://quartopub.com/sites/deepshamenghani/myfirstquartowebsite'
